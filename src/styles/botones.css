@@ -1,0 +1,26 @@
+.boton{
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+.boton:hover{
+    box-shadow: 0 0 2px  rgb(255, 255, 255);
+}
+.boton-agregar,
+.boton-editar,
+.boton-eliminar
+{
+    background-color: #df204c;
+}
+.boton-cancelar{
+    background-color: #5038bb;
+}
+.boton-verCursos{
+    background-color: #ffc107;
+}

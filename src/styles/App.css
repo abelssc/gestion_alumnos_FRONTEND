@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    min-height: 100vh;
+    padding: 50px;
+    
+    background-image: linear-gradient(135deg,#5038bb 50%,#aa8eef 50%) !important;
+}
+.container header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 25px;
+}
+.title{
+    color: #fff;
+}
+
